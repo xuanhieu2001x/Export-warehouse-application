@@ -1,0 +1,11 @@
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\bin\Debug\DSPhieuxuatkho.exe.config
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\bin\Debug\DSPhieuxuatkho.exe
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\bin\Debug\DSPhieuxuatkho.pdb
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.csproj.AssemblyReference.cache
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.csproj.SuggestedBindingRedirects.cache
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.frmXuatKho.resources
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.Properties.Resources.resources
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.csproj.GenerateResource.cache
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.csproj.CoreCompileInputs.cache
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.exe
+C:\Users\xuanh\OneDrive\Máy tính\Danh sach phieu xuat kho\DSPhieuxuatkho\obj\Debug\DSPhieuxuatkho.pdb
